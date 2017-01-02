@@ -1,0 +1,12 @@
+{
+  "name": "flww2-debounce",
+  "description": "debounce method from lodash",
+  "license": "MIT license",
+  "main": [
+    "index.js"
+  ],
+   "ignore": [
+    ".*",
+    "CHANGELOG.json"
+  ]
+}
